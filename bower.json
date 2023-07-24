@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "description": "First project",
+  "main": "",
+  "authors": [
+    "Mostafiz"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mostafiz35/bootstrap.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "jquery": "^3.7.0",
+    "popper.js": "^2.11.7"
+  }
+}
